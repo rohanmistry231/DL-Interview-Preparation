@@ -13,7 +13,7 @@
 
 ## 📖 Introduction
 
-Dive into my Deep Learning prep for AI/ML interviews! 🚀 This repo, crafted by an MTech AI/ML student, is designed to help you master neural networks and cutting-edge frameworks—the core of modern AI. Whether you’re gearing up for technical interviews or boosting your skills for AI projects, this resource covers fundamentals to advanced topics with clarity and depth.
+Welcome to my Deep Learning prep for AI/ML interviews! 🚀 This repository is your essential guide for mastering DL, the driving force of modern AI, with hands-on practice and interview-focused insights. From core neural networks to advanced architectures, it’s designed to help you excel in technical interviews and cutting-edge AI projects with clarity and confidence.
 
 ## 🌟 What’s Inside?
 
